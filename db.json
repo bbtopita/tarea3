@@ -1,0 +1,42 @@
+{
+    "producto":[
+        {
+            "Id": 1,
+            "Descripcion": "Procesador",
+            "Precio": "300.00",
+            "URL":"https://nimavi.com/wp-content/uploads/2022/03/Intel-Core-i7-12700F-01-100x100.jpg"
+        },
+        {
+            "Id": 2,
+            "Descripcion": "Tarjeta Grafica",
+            "Precio": "1800.00",
+            "URL":"https://www.impacto.com.pe/storage/products/md/166864351060103.jpg"
+        },
+        {
+            "Id": 3,
+            "Descripcion": "Disco M.2",
+            "Precio": "500.00",
+            "URL":"https://www.impacto.com.pe/storage/products/lg/167226189375076.jpg"
+        },
+        {
+            "Id": 4,
+            "Descripcion": "Placa Madre",
+            "Precio": "450.00",
+            "URL":"https://c8.alamy.com/compes/m1gypd/placa-base-de-pc-placa-de-circuito-impreso-m1gypd.jpg"
+        },
+        {
+            "Id": 5,
+            "Descripcion": "Memoria RAM",
+            "Precio": "160.00",
+            "URL":"https://images.freeimages.com/images/large-previews/9bc/ram-1515556.jpg"
+        }
+    ],
+
+    "login":[
+        {
+            "usuario": "Jordan",
+            "contrasena": "123"
+        }
+    ]
+    
+}
